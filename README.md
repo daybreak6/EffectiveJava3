@@ -5,7 +5,7 @@
 
 자세한 내용은 WIKI 페이지를 통해 확인 바랍니다.
 
-* [[스터디 정보]]
-* [[스터디 일정]]
-* [[스터디 내용]]
-* [[공유 자료]]
+* [스터디 정보](https://github.com/daybreak6/EffectiveJava3/wiki/%EC%8A%A4%ED%84%B0%EB%94%94-%EC%A0%95%EB%B3%B4)
+* [스터디 일정](https://github.com/daybreak6/EffectiveJava3/wiki/%EC%8A%A4%ED%84%B0%EB%94%94-%EC%9D%BC%EC%A0%95)
+* [스터디 내용](https://github.com/daybreak6/EffectiveJava3/wiki/%EC%8A%A4%ED%84%B0%EB%94%94-%EB%82%B4%EC%9A%A9)
+* [공유 자료](https://github.com/daybreak6/EffectiveJava3/wiki/%EA%B3%B5%EC%9C%A0-%EC%9E%90%EB%A3%8C)
